@@ -26,9 +26,11 @@ if(MEDICARESUPPLIERSERVICE_USER_PASSWORD !== '')
 
 $medicareSupplierServiceServiceGet = new MedicareSupplierServiceServiceGet($wsdl);
 // sample call for MedicareSupplierServiceServiceGet::GetSupplierByZipCode()
+// Note: Unformatted, but readable.
 if($medicareSupplierServiceServiceGet->GetSupplierByZipCode(new MedicareSupplierServiceStructGetSupplierByZipCode('60605')))
 	print_r($medicareSupplierServiceServiceGet->getResult());
 else
+// this will be unformatted, but readable
 	print_r($medicareSupplierServiceServiceGet->getLastError());
 
 ?>
