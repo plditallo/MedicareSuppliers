@@ -9,7 +9,7 @@
 /**
  * Class which returns the class map definition by the static method MedicareSupplierServiceClassMap::classMap()
  * @package MedicareSupplierService
- * @author Mikaël DELSOL <contact@wsdltophp.com>
+ * @author auto generated @ <contact@wsdltophp.com>
  * @version 20130622-01
  * @date 2013-06-22
  */

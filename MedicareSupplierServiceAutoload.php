@@ -2,13 +2,13 @@
 /**
  * File to load generated classes once at once time
  * @package MedicareSupplierService
- * @author Mikaël DELSOL <contact@wsdltophp.com>
+ * @author auto generated @ <contact@wsdltophp.com>
  * @version 20130622-01
  * @date 2013-06-22
  */
 /**
  * Includes for all generated classes files
- * @author Mikaël DELSOL <contact@wsdltophp.com>
+ * @author auto generated @ <contact@wsdltophp.com>
  * @version 20130622-01
  * @date 2013-06-22
  */

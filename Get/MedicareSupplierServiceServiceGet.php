@@ -11,7 +11,7 @@
  * This class stands for MedicareSupplierServiceServiceGet originally named Get
  * @package MedicareSupplierService
  * @subpackage Services
- * @author Mikaël DELSOL <contact@wsdltophp.com>
+ * @author auto generated @ <contact@wsdltophp.com>
  * @version 20130622-01
  * @date 2013-06-22
  */

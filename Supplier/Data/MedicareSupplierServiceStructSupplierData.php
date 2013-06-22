@@ -13,7 +13,7 @@
  * - from schema : {@link http://www.webservicex.net/medicareSupplier.asmx?WSDL}
  * @package MedicareSupplierService
  * @subpackage Structs
- * @author Mikaël DELSOL <contact@wsdltophp.com>
+ * @author auto generated @ <contact@wsdltophp.com>
  * @version 20130622-01
  * @date 2013-06-22
  */
